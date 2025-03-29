@@ -49,5 +49,7 @@ Usage
           3️⃣ Modify and improve based on your specific resume data
 
 
+If you want to infrence this model then you can go to  my 🤗 Hugging Face account : KevinPanchal/FineTune_Resume_Kaggle
+
 
 🚀 Coming Soon: API deployment & real-world integration!
